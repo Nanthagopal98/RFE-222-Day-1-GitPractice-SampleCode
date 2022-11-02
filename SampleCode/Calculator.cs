@@ -17,11 +17,7 @@ namespace SampleCode
         {
             int c = a + b;
             Console.WriteLine("Adition of Two Numbers is : "+c);
-<<<<<<< HEAD
             Console.WriteLine("Conflict Created");
-=======
-            Console.WriteLine("Create Conflict");
->>>>>>> c3a3c159db5b8b31ca8b3c2eaf9cc17e338bae49
         }
     }
 }
