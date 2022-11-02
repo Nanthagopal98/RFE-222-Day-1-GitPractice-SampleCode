@@ -8,3 +8,4 @@ calculator.a = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Enter Second Number");
 calculator.b = Convert.ToInt32(Console.ReadLine());
 calculator.AddTwoNumber();
+calculator.MultiplyTwoNumber();
