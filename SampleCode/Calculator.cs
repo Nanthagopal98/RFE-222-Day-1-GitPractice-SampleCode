@@ -14,7 +14,7 @@ namespace SampleCode
         public void AddTwoNumber()
         {
             int c = a + b;
-            Console.WriteLine("Adition : "+c);
+            Console.WriteLine("Adition of Two Numbers is : "+c);
         }
     }
 }
