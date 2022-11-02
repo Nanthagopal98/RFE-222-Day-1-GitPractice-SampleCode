@@ -11,6 +11,8 @@ namespace SampleCode
     {
         //instance variable
         public int a, b;
+        
+        //instance method
         public void AddTwoNumber()
         {
             int c = a + b;
