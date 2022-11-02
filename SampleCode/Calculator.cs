@@ -20,5 +20,11 @@ namespace SampleCode
             Console.WriteLine("Conflict Created");
             Console.WriteLine("Conflict Created 2 time");
         }
+        
+        public void SupractTwoNumber()
+        {
+            int c = a - b;
+            Console.WriteLine("Supraction of Two Numbers is : "+c);
+        }
     }
 }
