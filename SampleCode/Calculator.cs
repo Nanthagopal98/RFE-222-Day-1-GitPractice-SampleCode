@@ -24,5 +24,11 @@ namespace SampleCode
             int c = a * b;
             Console.WriteLine("Multiplication of Two Numbers is : " + c);
         }
+        
+        public void SupractTwoNumber()
+        {
+            int c = a - b;
+            Console.WriteLine("Supraction of Two Numbers is : "+c);
+        }
     }
 }
